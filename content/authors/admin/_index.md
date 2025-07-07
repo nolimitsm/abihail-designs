@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Abihail Designs
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ABA-HAIL
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abihail
+last_name: Petit-Frere
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Web Developer and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: #FREEINDEED
+    url: https://freeindeedministries.net
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,6 +46,6 @@ profiles:
     label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abihail is a Christian web developer and engineering student at Georgia Highlands College. His research interests include
+software engineering, programming, privacy-first cybersecurity and writing and web design. He has over 15 years of experience in web developement and SEO. His marketing skills make him a key asset in building foundations for businesses and startups. His great attitude makes him a valuable part of any research and development team.
+He has passion for arts and helping his community through volunteering.
